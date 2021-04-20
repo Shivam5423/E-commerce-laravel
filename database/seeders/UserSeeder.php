@@ -19,7 +19,7 @@ class UserSeeder extends Seeder
 
         	'name'=>'Broker',
         	'email'=>'Broker1223@gmail.com',
-        	'password'=>Hash::make('1245');
+        	'password'=>Hash::make('1245')
  
         ]);
     }
